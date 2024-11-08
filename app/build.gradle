@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.fazpass.android_trusted_device_v2_sample'
+    namespace 'com.fazpass.tdv2_showcase_mobile'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.fazpass.android_trusted_device_v2_sample"
+        applicationId "com.fazpass.tdv2_showcase_mobile"
         minSdk 24
         targetSdk 34
         versionCode 1

@@ -1,4 +1,4 @@
-package com.fazpass.android_trusted_device_v2_sample
+package com.fazpass.tdv2_showcase_mobile
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -11,11 +11,11 @@ import android.widget.TextView
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.FragmentActivity
-import com.fazpass.android_trusted_device_v2_sample.services.FazpassService
-import com.fazpass.android_trusted_device_v2_sample.services.SeamlessService
-import com.fazpass.android_trusted_device_v2_sample.utils.DialogProvider
-import com.fazpass.android_trusted_device_v2_sample.utils.JsonBeautifier
-import com.fazpass.android_trusted_device_v2_sample.views.EntryView
+import com.fazpass.tdv2_showcase_mobile.services.FazpassService
+import com.fazpass.tdv2_showcase_mobile.services.SeamlessService
+import com.fazpass.tdv2_showcase_mobile.utils.DialogProvider
+import com.fazpass.tdv2_showcase_mobile.utils.JsonBeautifier
+import com.fazpass.tdv2_showcase_mobile.views.EntryView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : FragmentActivity() {

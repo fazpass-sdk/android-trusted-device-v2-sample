@@ -1,9 +1,9 @@
-package com.fazpass.android_trusted_device_v2_sample.utils
+package com.fazpass.tdv2_showcase_mobile.utils
 
 import android.app.Activity
 import androidx.appcompat.app.AlertDialog
-import com.fazpass.android_trusted_device_v2_sample.objects.NotifiableDeviceModel
-import com.fazpass.android_trusted_device_v2_sample.objects.Settings
+import com.fazpass.tdv2_showcase_mobile.objects.NotifiableDeviceModel
+import com.fazpass.tdv2_showcase_mobile.objects.Settings
 
 class DialogProvider(private val activity: Activity) {
 

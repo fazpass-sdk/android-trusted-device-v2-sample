@@ -1,4 +1,4 @@
-package com.fazpass.android_trusted_device_v2_sample.objects
+package com.fazpass.tdv2_showcase_mobile.objects
 
 data class Settings(
     var isLocationEnabled: Boolean = false,

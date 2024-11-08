@@ -1,4 +1,4 @@
-package com.fazpass.android_trusted_device_v2_sample
+package com.fazpass.tdv2_showcase_mobile
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.fazpass.android_trusted_device_v2_sample", appContext.packageName)
+        assertEquals("com.fazpass.tdv2_showcase_mobile", appContext.packageName)
     }
 }

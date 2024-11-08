@@ -1,4 +1,4 @@
-package com.fazpass.android_trusted_device_v2_sample.ui.theme
+package com.fazpass.tdv2_showcase_mobile.ui.theme
 
 import android.app.Activity
 import android.os.Build

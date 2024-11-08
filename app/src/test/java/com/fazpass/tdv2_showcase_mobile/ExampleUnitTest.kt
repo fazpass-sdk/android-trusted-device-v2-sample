@@ -1,4 +1,4 @@
-package com.fazpass.android_trusted_device_v2_sample
+package com.fazpass.tdv2_showcase_mobile
 
 import org.junit.Test
 

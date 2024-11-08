@@ -1,10 +1,10 @@
-package com.fazpass.android_trusted_device_v2_sample.utils
+package com.fazpass.tdv2_showcase_mobile.utils
 
 import android.graphics.Color
 import android.text.SpannableString
 import android.text.style.ForegroundColorSpan
 import android.util.Log
-import com.fazpass.android_trusted_device_v2_sample.objects.SpanProps
+import com.fazpass.tdv2_showcase_mobile.objects.SpanProps
 
 class JsonBeautifier(json: String): CharSequence {
 

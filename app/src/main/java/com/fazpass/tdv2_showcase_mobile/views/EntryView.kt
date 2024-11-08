@@ -1,4 +1,4 @@
-package com.fazpass.android_trusted_device_v2_sample.views
+package com.fazpass.tdv2_showcase_mobile.views
 
 import android.content.Context
 import android.text.Spannable
@@ -7,8 +7,8 @@ import android.view.LayoutInflater
 import android.widget.EditText
 import android.widget.LinearLayout
 import android.widget.TextView
-import com.fazpass.android_trusted_device_v2_sample.R
-import com.fazpass.android_trusted_device_v2_sample.objects.SpanProps
+import com.fazpass.tdv2_showcase_mobile.R
+import com.fazpass.tdv2_showcase_mobile.objects.SpanProps
 
 class EntryView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyle: Int = 0) : LinearLayout(context, attrs, defStyle) {
 

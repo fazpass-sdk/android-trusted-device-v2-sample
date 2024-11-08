@@ -1,11 +1,11 @@
-package com.fazpass.android_trusted_device_v2_sample.services
+package com.fazpass.tdv2_showcase_mobile.services
 
 import android.os.Handler
 import android.os.Looper
 import android.util.JsonReader
 import android.util.JsonToken
 import android.util.Log
-import com.fazpass.android_trusted_device_v2_sample.objects.NotifiableDeviceModel
+import com.fazpass.tdv2_showcase_mobile.objects.NotifiableDeviceModel
 import org.json.JSONObject
 import java.io.IOException
 import java.net.URL

@@ -1,11 +1,11 @@
-package com.fazpass.android_trusted_device_v2_sample.services
+package com.fazpass.tdv2_showcase_mobile.services
 
 import android.app.Activity
 import android.util.Log
 import com.fazpass.android_trusted_device_v2.FazpassFactory
 import com.fazpass.android_trusted_device_v2.FazpassSettings
 import com.fazpass.android_trusted_device_v2.SensitiveData
-import com.fazpass.android_trusted_device_v2_sample.objects.Settings
+import com.fazpass.tdv2_showcase_mobile.objects.Settings
 import org.json.JSONObject
 
 class FazpassService(private val activity: Activity) {
